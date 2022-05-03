@@ -81,7 +81,7 @@ def clear_frames():
 
 
 
-# EDIT THE PATH BELOW TO THE ANNOTATION FOLDER
+# EDIT THE PATH BELOW TO THE ANNOTATION FILE
 with open('Temporal_Anomaly_Annotation_for_Testing_Videos.txt') as f:
     lines = f.readlines()
 
