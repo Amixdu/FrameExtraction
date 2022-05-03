@@ -107,7 +107,7 @@ def get_cropped_vids():
     # CHANGE BELOW PATH TO WHERE THE ORIGNIAL VIDEOS ARE STORED
     video_src_path = 'D:\Study\SEM_6\FIT3162\FrameExtraction\src'
 
-    # CHANGE BELOW PATH TO WHERE THE VIDEOS NEED TO BE STORED
+    # CHANGE BELOW PATH TO WHERE THE OUTPUT VIDEOS NEED TO BE STORED
     video_destination_path = 'D:\Study\SEM_6\FIT3162\FrameExtraction\\output_vids'
 
     video_names, crime_positions = read_data()
